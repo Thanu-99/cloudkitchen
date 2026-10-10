@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# CloudBites — Azure Observability Stack
 
 
@@ -64,3 +65,7 @@ Built as a Microsoft Azure hackathon project focused on cloud observability and 
 
 Developed collaboratively as part of a hackathon.
 
+=======
+# cloudkitchen
+CloudBites — A cloud-kitchen order management platform with real-time observability using Azure Managed Prometheus and Azure Managed Grafana.
+>>>>>>> 692b3fb7e58c5ea12639e8bebc2c1d1ae21be7d7
